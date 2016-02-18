@@ -8,3 +8,4 @@
 
 404404404
 dev wait...
+git pull
